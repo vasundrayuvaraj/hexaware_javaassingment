@@ -20,5 +20,5 @@ A Java-based Student Management System that allows administrators to manage stud
 - Eclipse IDE
 - Git & GitHub
 
-## 📁 Project Structure
+
 
